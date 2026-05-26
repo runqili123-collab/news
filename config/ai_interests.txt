@@ -1,4 +1,4 @@
-#TrendRadar AI 兴趣描述
+# TrendRadar AI 兴趣描述
 # 文件：config/ai_interests.txt
 # 用途：当 filter.method=ai 时，引导 AI 筛选与你目标匹配的新闻
 
